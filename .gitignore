@@ -1,0 +1,9 @@
+# Ignorer tous les fichiers PNG, JPG et WAV
+*.png
+*.jpg
+*.wav
+*.txt
+**/*.png
+**/*.jpg
+**/*.wav
+**/*.txt
