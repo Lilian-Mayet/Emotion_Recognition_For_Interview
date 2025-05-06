@@ -7,3 +7,8 @@
 **/*.jpg
 **/*.wav
 **/*.txt
+*.keras
+*.h5
+*.pt
+*.ckpt
+face/model/checkpoints
